@@ -1,0 +1,5 @@
+open_api_service_fu
+
+please visit http://openapiservice.com/wiki/index.php/Location_Based_Services_%28LBS%29_API to get the detail
+
+this component is going to provide the ruby interface around the LBS.
